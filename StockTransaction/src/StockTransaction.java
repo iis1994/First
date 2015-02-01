@@ -1,4 +1,4 @@
-
+//OK. Ozgur Aktunc
 public class StockTransaction {
 	public static void main(String[] args){
 		
