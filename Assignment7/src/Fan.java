@@ -16,19 +16,17 @@ public class Fan {
 		this.radius=radius;
 		this.color=color;
 	}
+	
 	public int getSpeed(){
 		return speed;
 	}
-	public int setSpeed(){
-		return speed;
-	}
-	public boolean setFanStatus(){
+	public boolean getFanStatus(){
 		return fanStatus;
 	}
-	public double setRadius(){
+	public double getRadius(){
 		return radius;
 	}
-	public String setColor(){
+	public String getColor(){
 		return color;
 	}
 	public String toString() {
